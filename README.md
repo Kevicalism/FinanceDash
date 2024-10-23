@@ -1,8 +1,5 @@
-# React + Vite
+# My basic Finance Dashboard project. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Essentially, it's a basic finance dashboard using React, Bootstrap, and Chart.js with PropTypes for type-checking with react for validation, and it's compatible with mobile. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+There's short explanations of code within my code for new beginners as well, hope this helps!
